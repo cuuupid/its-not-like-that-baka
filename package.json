@@ -1,0 +1,24 @@
+{
+  "name": "confess-bot",
+  "version": "1.0.0",
+  "description": "FB Confession page manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshah123/its-not-like-that-baka.git"
+  },
+  "keywords": [
+    "confess",
+    "fb",
+    "bot"
+  ],
+  "author": "Priansh Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshah123/its-not-like-that-baka/issues"
+  },
+  "homepage": "https://github.com/pshah123/its-not-like-that-baka#readme"
+}
